@@ -1,0 +1,8 @@
+This file contains the weather parameters of 2008 in Denver, Colorado. 
+Each row is one data sample (measurement).
+
+
+The data is collected every 10 minutes. That is: 
+The first row corresponds to January 1st, 2008, at 00:00:00 o'clock
+The second row corresponds to January 1st, 2008, at 00:00:10 o'clock
+...

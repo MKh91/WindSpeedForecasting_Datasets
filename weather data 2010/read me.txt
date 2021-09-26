@@ -1,0 +1,8 @@
+This file contains the weather parameters of 2010 in Denver, Colorado. 
+Each row is one data sample (measurement).
+
+
+The data is collected every 10 minutes. That is: 
+The first row corresponds to January 1st, 2010, at 00:00:00 o'clock
+The second row corresponds to January 1st, 2010, at 00:00:10 o'clock
+...
